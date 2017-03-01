@@ -1,0 +1,9 @@
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.BusinessLogic\bin\Debug\Supermarket.BusinessLogic.dll
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.BusinessLogic\bin\Debug\Supermarket.BusinessLogic.pdb
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.BusinessLogic\obj\Debug\Supermarket.BusinessLogic.dll
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.BusinessLogic\obj\Debug\Supermarket.BusinessLogic.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\ClassLibrary1\Supermarket.BusinessLogic\bin\Debug\ClassLibrary1.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\ClassLibrary1\Supermarket.BusinessLogic\bin\Debug\Supermarket.Data.Interface.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\ClassLibrary1\Supermarket.BusinessLogic\bin\Debug\ClassLibrary1.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\ClassLibrary1\Supermarket.BusinessLogic\bin\Debug\Supermarket.Data.Interface.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\ClassLibrary1\Supermarket.BusinessLogic\obj\Debug\Supermarket.BusinessLogic.csprojResolveAssemblyReference.cache

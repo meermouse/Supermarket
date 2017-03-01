@@ -1,0 +1,11 @@
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\bin\Debug\Supermarket.Data.Implementation.dll
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\bin\Debug\Supermarket.Data.Implementation.pdb
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\obj\Debug\Supermarket.Data.Implementation.csprojResolveAssemblyReference.cache
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\obj\Debug\Supermarket.Data.Implementation.dll
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\obj\Debug\Supermarket.Data.Implementation.pdb
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\bin\Debug\ClassLibrary1.dll
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\bin\Debug\Supermarket.Data.Interface.dll
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\bin\Debug\Supermarket.Dto.Implementation.dll
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\bin\Debug\ClassLibrary1.pdb
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\bin\Debug\Supermarket.Data.Interface.pdb
+c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\bin\Debug\Supermarket.Dto.Implementation.pdb
