@@ -9,3 +9,14 @@ c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Da
 c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\bin\Debug\ClassLibrary1.pdb
 c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\bin\Debug\Supermarket.Data.Interface.pdb
 c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Data.Implementation\bin\Debug\Supermarket.Dto.Implementation.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Data.Implementation.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Data.Implementation.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Data.Interface.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Dto.Implementation.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Dto.Interface.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Data.Interface.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Dto.Implementation.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Dto.Interface.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\obj\Debug\Supermarket.Data.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\obj\Debug\Supermarket.Data.Implementation.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\obj\Debug\Supermarket.Data.Implementation.pdb

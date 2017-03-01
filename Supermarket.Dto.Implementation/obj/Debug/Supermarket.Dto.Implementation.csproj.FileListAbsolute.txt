@@ -5,3 +5,10 @@ c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Dt
 c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Dto.Implementation\bin\Debug\ClassLibrary1.pdb
 c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Dto.Implementation\obj\Debug\Supermarket.Dto.Implementation.dll
 c:\users\marc\documents\visual studio 2015\Projects\ClassLibrary1\Supermarket.Dto.Implementation\obj\Debug\Supermarket.Dto.Implementation.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Implementation\bin\Debug\Supermarket.Dto.Implementation.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Implementation\bin\Debug\Supermarket.Dto.Implementation.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Implementation\bin\Debug\Supermarket.Dto.Interface.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Implementation\bin\Debug\Supermarket.Dto.Interface.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Implementation\obj\Debug\Supermarket.Dto.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Implementation\obj\Debug\Supermarket.Dto.Implementation.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Implementation\obj\Debug\Supermarket.Dto.Implementation.pdb

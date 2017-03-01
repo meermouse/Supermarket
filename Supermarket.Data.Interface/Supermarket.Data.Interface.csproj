@@ -44,8 +44,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary1\Supermarket.Dto.Interface.csproj">
-      <Project>{43907d5e-af79-4d98-89f5-5a219039bc54}</Project>
+    <ProjectReference Include="..\Supermarket.Dto.Interface\Supermarket.Dto.Interface.csproj">
+      <Project>{9fa0c329-da26-4c82-a845-6073f468f53a}</Project>
       <Name>Supermarket.Dto.Interface</Name>
     </ProjectReference>
   </ItemGroup>
