@@ -17,9 +17,9 @@ namespace Supermarket.Console
         {
             ProcessConsole processConsole = new ProcessConsole(DataAccess);
             ICheckout checkout = processConsole.ProcessCheckout(string.Join(string.Empty,input));
-            ISupermarketBusinessLogic SKUBusinessLogic = new SupermarketBusinessLogic(DataAccess);
+            ISupermarketBusinessLogic supermarketBusinessLogic = new SupermarketBusinessLogic(DataAccess);
 
-            return SKUBusinessLogic.ProcessCheckout(checkout);
+            return supermarketBusinessLogic.ProcessCheckout(checkout);
         }
     }
 }

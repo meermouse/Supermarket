@@ -8,20 +8,21 @@ namespace Supermarket.BusinessLogic.Implementation
 {
     public class SupermarketBusinessLogic : ISupermarketBusinessLogic
     {
-        private readonly IEnumerable<IItemPrice> ItemPrices;
-        private readonly IEnumerable<IOffer> Offers;
-        private readonly IDataAccess IDataAccess;
+        private readonly IDataAccess _dataAccess;
+
+        private IEnumerable<IItemPrice> itemPrices;
+        private IEnumerable<IOffer> offers;
 
         public SupermarketBusinessLogic(IDataAccess IDataAccess)
         {
-            this.IDataAccess = IDataAccess;
-            this.ItemPrices = this.IDataAccess.GetItemPrices();
-            this.Offers = this.IDataAccess.GetOffers();
+            this._dataAccess = IDataAccess;
         }
 
         public double ProcessCheckout(ICheckout checkout)
         {
             double total = 0;
+            this.itemPrices = this._dataAccess.GetItemPrices();
+            this.offers = this._dataAccess.GetOffers();
             Dictionary<string, int> multiples = new Dictionary<string, int>();
 
             foreach (string item in checkout.Items)
@@ -38,8 +39,8 @@ namespace Supermarket.BusinessLogic.Implementation
 
             foreach (string item in multiples.Keys)
             {
-                IOffer offer = this.Offers.FirstOrDefault(o => o.Item == item);
-                IItemPrice itemPrice = this.ItemPrices.FirstOrDefault(ip => ip.Item == item);
+                IOffer offer = this.offers.FirstOrDefault(o => o.Item == item);
+                IItemPrice itemPrice = this.itemPrices.FirstOrDefault(ip => ip.Item == item);
                 if (offer != null && itemPrice != null)
                 {
                     int numberOfOffers = multiples[item] / offer.Number;
