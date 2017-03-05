@@ -32,7 +32,31 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
   <ItemGroup>
+    <Reference Include="StructureMap, Version=4.4.3.564, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\StructureMap.4.4.3\lib\net45\StructureMap.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -44,13 +68,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ErrorHandling.cs" />
-    <Compile Include="ProcessConsole.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SuperMarket.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Supermarket.BusinessLogic.Interface\Supermarket.BusinessLogic.Interface.csproj">
@@ -60,6 +83,14 @@
     <ProjectReference Include="..\Supermarket.BusinessLogic\Supermarket.BusinessLogic.Implementation.csproj">
       <Project>{b74c023a-5066-494b-86b9-5699992064c6}</Project>
       <Name>Supermarket.BusinessLogic.Implementation</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SuperMarket.Controllers.Interface\SuperMarket.Controllers.Interface.csproj">
+      <Project>{B57DCCE7-5270-4815-8037-55F10BF34B6F}</Project>
+      <Name>SuperMarket.Controllers.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Supermarket.Controllers\Supermarket.Controllers.csproj">
+      <Project>{9C984E34-2890-42F8-9D76-584469113505}</Project>
+      <Name>Supermarket.Controllers</Name>
     </ProjectReference>
     <ProjectReference Include="..\Supermarket.Data.Implementation\Supermarket.Data.Implementation.csproj">
       <Project>{47b047c0-7194-49ad-b3c4-9b14d8cd1547}</Project>
@@ -72,10 +103,6 @@
     <ProjectReference Include="..\Supermarket.Dto.Implementation\Supermarket.Dto.Implementation.csproj">
       <Project>{10a93009-3e0c-4ef1-b9fa-048f3c81cd2f}</Project>
       <Name>Supermarket.Dto.Implementation</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Supermarket.Dto.Interface\Supermarket.Dto.Interface.csproj">
-      <Project>{9fa0c329-da26-4c82-a845-6073f468f53a}</Project>
-      <Name>Supermarket.Dto.Interface</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

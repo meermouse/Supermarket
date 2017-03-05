@@ -13,10 +13,8 @@ C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Data.Implementation.pdb
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Data.Interface.dll
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Dto.Implementation.dll
-C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Dto.Interface.dll
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Data.Interface.pdb
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Dto.Implementation.pdb
-C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\bin\Debug\Supermarket.Dto.Interface.pdb
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\obj\Debug\Supermarket.Data.Implementation.csprojResolveAssemblyReference.cache
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\obj\Debug\Supermarket.Data.Implementation.dll
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Data.Implementation\obj\Debug\Supermarket.Data.Implementation.pdb

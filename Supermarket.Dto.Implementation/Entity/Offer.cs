@@ -1,8 +1,6 @@
-﻿using Supermarket.Dto.Interface;
-
-namespace Supermarket.Dto.Implementation.Entity
+﻿namespace Supermarket.Dto.Implementation.Entity
 {
-    public class Offer : IOffer
+    public class Offer
     {
         public string Item { get; set; }
 

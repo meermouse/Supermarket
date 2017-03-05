@@ -32,7 +32,14 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
   <ItemGroup>
+    <Reference Include="nunit.framework, Version=3.6.1.0, Culture=neutral, PublicKeyToken=2638cd05610744eb, processorArchitecture=MSIL">
+      <HintPath>..\packages\NUnit.3.6.1\lib\net45\nunit.framework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -45,14 +52,32 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SupermarketTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Supermarket.BusinessLogic.Interface\Supermarket.BusinessLogic.Interface.csproj">
+      <Project>{40476387-ED5C-421B-9404-FE68ED505C06}</Project>
+      <Name>Supermarket.BusinessLogic.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Supermarket.BusinessLogic\Supermarket.BusinessLogic.Implementation.csproj">
+      <Project>{B74C023A-5066-494B-86B9-5699992064C6}</Project>
+      <Name>Supermarket.BusinessLogic.Implementation</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Supermarket.Console\Supermarket.Console.csproj">
       <Project>{ec6e5d37-b279-48ce-8f90-30de52ca57f3}</Project>
       <Name>Supermarket.Console</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SuperMarket.Controllers.Interface\SuperMarket.Controllers.Interface.csproj">
+      <Project>{B57DCCE7-5270-4815-8037-55F10BF34B6F}</Project>
+      <Name>SuperMarket.Controllers.Interface</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Supermarket.Controllers\Supermarket.Controllers.csproj">
+      <Project>{9C984E34-2890-42F8-9D76-584469113505}</Project>
+      <Name>Supermarket.Controllers</Name>
     </ProjectReference>
     <ProjectReference Include="..\Supermarket.Data.Implementation\Supermarket.Data.Implementation.csproj">
       <Project>{47b047c0-7194-49ad-b3c4-9b14d8cd1547}</Project>

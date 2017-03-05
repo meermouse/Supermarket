@@ -1,6 +1,6 @@
 ﻿using Supermarket.BusinessLogic.Interface;
 using Supermarket.Data.Interface;
-using Supermarket.Dto.Interface;
+using Supermarket.Dto.Implementation.Entity;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -10,15 +10,15 @@ namespace Supermarket.BusinessLogic.Implementation
     {
         private readonly IDataAccess _dataAccess;
 
-        private IEnumerable<IItemPrice> itemPrices;
-        private IEnumerable<IOffer> offers;
+        private IEnumerable<ItemPrice> itemPrices;
+        private IEnumerable<Offer> offers;
 
         public SupermarketBusinessLogic(IDataAccess IDataAccess)
         {
             this._dataAccess = IDataAccess;
         }
 
-        public double ProcessCheckout(ICheckout checkout)
+        public double ProcessCheckout(Checkout checkout)
         {
             double total = 0;
             this.itemPrices = this._dataAccess.GetItemPrices();
@@ -39,8 +39,8 @@ namespace Supermarket.BusinessLogic.Implementation
 
             foreach (string item in multiples.Keys)
             {
-                IOffer offer = this.offers.FirstOrDefault(o => o.Item == item);
-                IItemPrice itemPrice = this.itemPrices.FirstOrDefault(ip => ip.Item == item);
+                Offer offer = this.offers.FirstOrDefault(o => o.Item == item);
+                ItemPrice itemPrice = this.itemPrices.FirstOrDefault(ip => ip.Item == item);
                 if (offer != null && itemPrice != null)
                 {
                     int numberOfOffers = multiples[item] / offer.Number;

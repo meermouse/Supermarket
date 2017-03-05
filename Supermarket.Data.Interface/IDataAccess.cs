@@ -1,4 +1,4 @@
-﻿using Supermarket.Dto.Interface;
+﻿using Supermarket.Dto.Implementation.Entity;
 using System.Collections.Generic;
 
 namespace Supermarket.Data.Interface
@@ -15,12 +15,12 @@ namespace Supermarket.Data.Interface
         /// Get available offers
         /// </summary>
         /// <returns></returns>
-        IEnumerable<IOffer> GetOffers();
+        IEnumerable<Offer> GetOffers();
 
         /// <summary>
         /// Get available items with prices
         /// </summary>
         /// <returns></returns>
-        IEnumerable<IItemPrice> GetItemPrices();
+        IEnumerable<ItemPrice> GetItemPrices();
     }
 }

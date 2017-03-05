@@ -13,10 +13,10 @@ C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Busi
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.BusinessLogic\bin\Debug\Supermarket.BusinessLogic.pdb
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.BusinessLogic\bin\Debug\Supermarket.BusinessLogic.Interface.dll
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.BusinessLogic\bin\Debug\Supermarket.Data.Interface.dll
-C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.BusinessLogic\bin\Debug\Supermarket.Dto.Interface.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.BusinessLogic\bin\Debug\Supermarket.Dto.Implementation.dll
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.BusinessLogic\bin\Debug\Supermarket.BusinessLogic.Interface.pdb
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.BusinessLogic\bin\Debug\Supermarket.Data.Interface.pdb
-C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.BusinessLogic\bin\Debug\Supermarket.Dto.Interface.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.BusinessLogic\bin\Debug\Supermarket.Dto.Implementation.pdb
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.BusinessLogic\obj\Debug\Supermarket.BusinessLogic.Implementation.csprojResolveAssemblyReference.cache
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.BusinessLogic\obj\Debug\Supermarket.BusinessLogic.dll
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.BusinessLogic\obj\Debug\Supermarket.BusinessLogic.pdb

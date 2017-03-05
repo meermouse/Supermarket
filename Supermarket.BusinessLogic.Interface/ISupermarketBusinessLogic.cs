@@ -1,4 +1,4 @@
-﻿using Supermarket.Dto.Interface;
+﻿using Supermarket.Dto.Implementation.Entity;
 
 namespace Supermarket.BusinessLogic.Interface
 {
@@ -9,6 +9,6 @@ namespace Supermarket.BusinessLogic.Interface
         /// </summary>
         /// <param name="checkout"></param>
         /// <returns></returns>
-        double ProcessCheckout(ICheckout checkout);
+        double ProcessCheckout(Checkout checkout);
     }
 }

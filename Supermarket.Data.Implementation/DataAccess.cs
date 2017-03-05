@@ -1,7 +1,6 @@
 ﻿using Supermarket.Data.Interface;
 using Supermarket.Dto.Implementation.Entity;
 using Supermarket.Dto.Implementation.Enum;
-using Supermarket.Dto.Interface;
 using System.Collections.Generic;
 
 namespace Supermarket.Data.Implementation
@@ -16,7 +15,7 @@ namespace Supermarket.Data.Implementation
             };
         }
 
-        public IEnumerable<IItemPrice> GetItemPrices()
+        public IEnumerable<ItemPrice> GetItemPrices()
         {
             return new List<ItemPrice>()
             {
@@ -27,7 +26,7 @@ namespace Supermarket.Data.Implementation
             };
         }
 
-        public IEnumerable<IOffer> GetOffers()
+        public IEnumerable<Offer> GetOffers()
         {
             return new List<Offer>()
             {

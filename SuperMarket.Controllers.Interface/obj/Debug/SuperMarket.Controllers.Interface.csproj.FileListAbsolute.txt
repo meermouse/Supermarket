@@ -1,0 +1,4 @@
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\SuperMarket.Controllers.Interface\bin\Debug\SuperMarket.Controllers.Interface.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\SuperMarket.Controllers.Interface\bin\Debug\SuperMarket.Controllers.Interface.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\SuperMarket.Controllers.Interface\obj\Debug\SuperMarket.Controllers.Interface.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\SuperMarket.Controllers.Interface\obj\Debug\SuperMarket.Controllers.Interface.pdb
