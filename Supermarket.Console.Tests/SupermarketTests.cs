@@ -82,7 +82,7 @@ namespace Supermarket.Console.Tests
         {
             IDataAccess dataAccess = new DataAccess();
             ISupermarketBusinessLogic supermarketBusinessLogic = new SupermarketBusinessLogic(dataAccess);
-            ISuperMarketController superMarket = new SuperMarketController(supermarketBusinessLogic, dataAccess);
+            SuperMarketController superMarket = new SuperMarketController(supermarketBusinessLogic, dataAccess);
             string input = "AAABB";
             double expectedResult = superMarket.ProcessCheckout(input);
             Assert.That(expectedResult, Is.EqualTo(175));

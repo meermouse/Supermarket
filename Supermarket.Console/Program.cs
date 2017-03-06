@@ -1,11 +1,11 @@
-﻿using Supermarket.Data.Implementation;
-using Supermarket.Data.Interface;
-using StructureMap;
-using System;
-using Supermarket.BusinessLogic.Interface;
+﻿using StructureMap;
 using Supermarket.BusinessLogic.Implementation;
-using SuperMarket.Controllers.Interface;
+using Supermarket.BusinessLogic.Interface;
 using Supermarket.Controllers;
+using Supermarket.Data.Implementation;
+using Supermarket.Data.Interface;
+using SuperMarket.Controllers.Interface;
+using System;
 
 namespace Supermarket.Console
 {

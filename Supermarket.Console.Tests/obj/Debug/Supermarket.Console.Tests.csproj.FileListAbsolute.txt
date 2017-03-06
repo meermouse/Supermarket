@@ -40,6 +40,6 @@ C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Cons
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Console.Tests\bin\Debug\SuperMarket.Controllers.Interface.dll
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Console.Tests\bin\Debug\Supermarket.Controllers.pdb
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Console.Tests\bin\Debug\SuperMarket.Controllers.Interface.pdb
-C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Console.Tests\bin\Debug\Supermarket.Console.Tests.exe.config
-C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Console.Tests\bin\Debug\Supermarket.Console.Tests.exe
-C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Console.Tests\obj\Debug\Supermarket.Console.Tests.exe
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Console.Tests\bin\Debug\Supermarket.Console.Tests.dll.config
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Console.Tests\bin\Debug\Supermarket.Console.Tests.dll
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Console.Tests\obj\Debug\Supermarket.Console.Tests.dll

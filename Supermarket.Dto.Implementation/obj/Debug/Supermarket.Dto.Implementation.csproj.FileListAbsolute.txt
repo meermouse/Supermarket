@@ -9,3 +9,4 @@ C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Implementation\bin\Debug\Supermarket.Dto.Implementation.pdb
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Implementation\obj\Debug\Supermarket.Dto.Implementation.dll
 C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Implementation\obj\Debug\Supermarket.Dto.Implementation.pdb
+C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Implementation\obj\Debug\Supermarket.Dto.Implementation.csprojResolveAssemblyReference.cache

@@ -1,5 +1,0 @@
-C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Interface\bin\Debug\Supermarket.Dto.Interface.dll
-C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Interface\bin\Debug\Supermarket.Dto.Interface.pdb
-C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Interface\obj\Debug\Supermarket.Dto.Interface.dll
-C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Interface\obj\Debug\Supermarket.Dto.Interface.pdb
-C:\Users\Marc\Documents\Visual Studio 2015\Projects\Supermarket\Supermarket.Dto.Interface\obj\Debug\Supermarket.Dto.Interface.csprojResolveAssemblyReference.cache

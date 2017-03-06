@@ -17,8 +17,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.Console.Tests",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.BusinessLogic.Interface", "Supermarket.BusinessLogic.Interface\Supermarket.BusinessLogic.Interface.csproj", "{40476387-ED5C-421B-9404-FE68ED505C06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{067456C0-086C-46A8-B37F-1405717B7BFC}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket.Controllers", "Supermarket.Controllers\Supermarket.Controllers.csproj", "{9C984E34-2890-42F8-9D76-584469113505}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperMarket.Controllers.Interface", "SuperMarket.Controllers.Interface\SuperMarket.Controllers.Interface.csproj", "{B57DCCE7-5270-4815-8037-55F10BF34B6F}"
@@ -57,10 +55,6 @@ Global
 		{40476387-ED5C-421B-9404-FE68ED505C06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40476387-ED5C-421B-9404-FE68ED505C06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40476387-ED5C-421B-9404-FE68ED505C06}.Release|Any CPU.Build.0 = Release|Any CPU
-		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{067456C0-086C-46A8-B37F-1405717B7BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{067456C0-086C-46A8-B37F-1405717B7BFC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9C984E34-2890-42F8-9D76-584469113505}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9C984E34-2890-42F8-9D76-584469113505}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9C984E34-2890-42F8-9D76-584469113505}.Release|Any CPU.ActiveCfg = Release|Any CPU
